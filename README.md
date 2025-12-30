@@ -5,19 +5,19 @@ The app uses a Large Language Model (LLM) to generate HTML, CSS, and JavaScript,
 
 🚀 What This App Does
 
-User enters a short description of the website they want
+1.User enters a short description of the website they want
 
 The AI generates:
 
-index.html
+▫️index.html
 
-style.css
+▫️style.css
 
-script.js
+▫️script.js
 
-All files are automatically combined into a ZIP file
+2.All files are automatically combined into a ZIP file
 
-User downloads the ZIP and can run the website locally
+3.User downloads the ZIP and can run the website locally
 
 🎯 Key Features
 
