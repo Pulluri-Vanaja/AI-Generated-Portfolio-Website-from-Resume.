@@ -3,6 +3,8 @@
 AI Website Builder is an AI-powered application that allows users to generate complete frontend websites using a simple text prompt.
 The app uses a Large Language Model (LLM) to generate HTML, CSS, and JavaScript, packages them into a ZIP file, and lets users download the website instantly.
 
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://ai-generated-portfolio-website-from-resume-x9cz3mxpl4gdzhyemsw.streamlit.app/)
+
 🚀 What This App Does
 
 1.User enters a short description of the website they want
