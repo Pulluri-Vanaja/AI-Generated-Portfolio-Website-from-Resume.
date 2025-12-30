@@ -3,9 +3,9 @@
 AI Website Builder is an AI-powered application that allows users to generate complete frontend websites using a simple text prompt.
 The app uses a Large Language Model (LLM) to generate HTML, CSS, and JavaScript, packages them into a ZIP file, and lets users download the website instantly.
 
-🔗🚀 What This App Does
+🚀 What This App Does
 
-🔗1.User enters a short description of the website they want
+1.User enters a short description of the website they want
 
 The AI generates:
 
@@ -19,7 +19,7 @@ The AI generates:
 
 3.User downloads the ZIP and can run the website locally
 
-🔗🎯 Key Features
+🎯 Key Features
 
 🔹Generate frontend websites from natural language prompts
 
@@ -34,7 +34,7 @@ The AI generates:
 🔹Uses prompt engineering for structured AI output
 
 
-🔗🧠 How It Works
+🧠 How It Works
 
 💠The user provides a website description
 
@@ -46,7 +46,7 @@ The AI generates:
 
 💠The ZIP file is provided for download
 
-🔗 🛠 Tech Stack
+🛠 Tech Stack
 Frontend UI: Streamlit
 
 LLM: Google Gemini
